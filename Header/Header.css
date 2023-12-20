@@ -1,0 +1,30 @@
+
+.Header{
+    margin: 2px;
+    flex-wrap: wrap;
+    background:  url(kk1.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+    
+}
+.Header p{
+    
+    font-size: 40px;
+    font-weight: bold;
+    object-fit: cover;
+    padding-left: 50px;
+    padding-top: 10px;
+    
+}
+.text1{
+    background: linear-gradient(180deg,#00dbde,#4800ff,#ff0095,#00ab00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.text2{
+    background: linear-gradient(180deg,#3000de,#ff0095,#ff0051,#0000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

@@ -1,0 +1,25 @@
+*{
+    flex-wrap: wrap;
+}
+.nav{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 60px;
+    color: white;
+}
+.Navbar_div input{
+    color: aliceblue;
+    outline: none;
+    border: none;
+    background-color: transparent;
+    border-bottom:  3px solid yellowgreen;
+    
+    
+}
+.Navbar_div p{
+    font-size: 50px;
+    font-weight: bolder;
+    
+}
